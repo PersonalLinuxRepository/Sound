@@ -16,12 +16,15 @@ sudo apt install \
      pipewire-alsa \
      pipewire-jack \
      wireplumber \
-     qpwgraph\
+     qpwgraph \
      flatpak
 ```
 # Add main flatpak repository: 
 ```bash
 flatpak remote-add --if-not-exists flathub https://flathub.org/repo/flathub.flatpakrepo
+```
+```bash
+flatpak install https://dl.flathub.org/repo/appstream/com.github.wwmm.easyeffects.flatpakref
 ```
 # Enable PipeWire Services
 ```bash
@@ -36,7 +39,7 @@ Clone repository:
 ```bash
 git clone https://github.com/PersonalLinuxRepository/Sound.git
 ```
-#Copy & Create directories 
+Copy & Create directories 
 ```bash
 mkdir -p ~/.config/pipewire && cd Sound
 ```
