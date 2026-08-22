@@ -1,0 +1,11 @@
+[soe][Compressor#0]
+boostAmount=1
+hpfFrequency=150
+hpfMode=1
+knee=-9
+lpfFrequency=500
+ratio=2.5
+release=80
+sidechainLookahead=3
+sidechainReactivity=5
+stereoSplit=true

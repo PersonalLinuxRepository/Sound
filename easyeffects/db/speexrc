@@ -1,0 +1,5 @@
+[soe][Speex#0]
+bypass=true
+enableAgc=true
+enableVad=true
+noiseSuppression=-1

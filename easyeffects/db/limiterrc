@@ -1,0 +1,7 @@
+[soe][Limiter#0]
+dithering=8
+lookahead=3
+mode=1
+oversampling=22
+release=10
+threshold=-1
