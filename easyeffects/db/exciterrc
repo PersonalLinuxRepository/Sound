@@ -1,5 +1,6 @@
 [soe][Exciter#0]
-amount=6
+amount=3
 ceil=20000
-harmonics=8
+harmonics=6
+outputGain=-2
 scope=2000
