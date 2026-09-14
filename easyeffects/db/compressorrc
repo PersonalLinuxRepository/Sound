@@ -8,4 +8,3 @@ ratio=2.5
 release=80
 sidechainLookahead=3
 sidechainReactivity=5
-stereoSplit=true

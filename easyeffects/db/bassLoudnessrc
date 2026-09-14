@@ -1,3 +1,4 @@
 [soe][BassLoudness#0]
-loudness=-2.6
+bypass=true
+loudness=-1.6
 outputGain=-1.2

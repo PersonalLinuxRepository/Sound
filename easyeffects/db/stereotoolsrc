@@ -4,4 +4,4 @@ dry=0
 outputGain=-8
 slev=3
 softclip=true
-stereoBase=0.5
+stereoBase=0.35
