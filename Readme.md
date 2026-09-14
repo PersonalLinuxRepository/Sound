@@ -71,3 +71,16 @@ wpctl status
 ```bash
 pw-cli s <value_from_wpctl_status> Props '{ iec958Codecs = [ "PCM" "AC3" "DTS" ] }'
 ```
+
+### About My Sound Enhancement 
+
+* **Headroom Gain Staging**
+  Rebalanced peak audio gain levels to maintain optimal signal margin and prevent digital saturation.
+* **Clipping Prevention**
+  Applied gain compensation and limiting parameters to eliminate inter-sample and signal peak clipping.
+* **Harmonic Enhancement**
+  Adjusted harmonizer and exciter processing to introduce musical saturation, enhancing presence and vocal and instrumental clarity without harshness.
+* **Low-Frequency Enhancement**
+  Optimized low-end response for tighter bass articulation and reduced sub-bass muddiness.
+* **Stereo Imaging Optimization**
+  Fine-tuned stereo width processing for improved spatial separation and channel balance.
